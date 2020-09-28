@@ -27,7 +27,7 @@ IMDB.io is a landing page to facilitate adoption searching for movies and series
 
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
-Visit the [omdbapi] website (http://www.omdbapi.com/) and if you register, an email will be sent with your credentials, copy and follow the tutorial below.
+Visit the website [omdbapi](http://www.omdbapi.com/) and if you register, an email will be sent with your credentials, copy and follow the tutorial below.
 
 ```bash
 # Repository
